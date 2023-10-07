@@ -41,15 +41,6 @@ Read a tutorial of this DIY project on Hackster.io [here](https://www.hackster.i
 <br />
 <br />
 
-## Other DIY / Maker similar Open projects
-
-- [SmaHoo 110-220V AC Smart Outlet](https://github.com/slaesh/smahoo-hw)
-
-<p align="center">
-<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management/smahoo.jpeg" width=200>
-</p>
-
-<br>
 
 ## Author
 
