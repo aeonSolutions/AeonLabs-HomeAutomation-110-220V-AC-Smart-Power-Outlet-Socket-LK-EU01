@@ -1,5 +1,12 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >> [Smart Home AC DC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management)  >>  110-220V AC Smart Power Outlet Socket LK-EU01
 
+<p align="right">
+    sponsored by <br>
+    <a href="https://www.aliexpress.com/store/912720154?spm=a2g0o.detail.0.0.5ec7e9CFe9CF0L">
+       <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/lk_shiny_enclosure_store.png">
+    </a>
+</p>
+
 # 110-220V AC Smart Power Outlet Socket LK-EU01
 
 The smart 220V outlet represents a leap forward in home automation technology, seamlessly bridging the gap between traditional electrical appliances and the digital age. With the ability to connect to a dedicated mobile app, this intelligent outlet empowers users with unprecedented control and convenience. Whether you're at home or on the go, the app allows you to remotely monitor and manage your connected devices, turning them on or off with just a tap on your smartphone screen. Gone are the days of worrying about whether you left an appliance on or needing to physically unplug devices. Additionally, the outlet can be programmed to schedule operations, helping you save energy and reduce electricity bills. The smart 220V outlet not only enhances your home's efficiency but also brings a new level of convenience and peace of mind to your daily life.
