@@ -2,7 +2,7 @@
 
 <p align="right">
     sponsored by <br>
-    <a href="https://www.aliexpress.com/store/912720154?spm=a2g0o.detail.0.0.5ec7e9CFe9CF0L">
+    <a href="https://www.aliexpress.com/store/912720154">
        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/lk_shiny_enclosure_store.png">
     </a>
 </p>
