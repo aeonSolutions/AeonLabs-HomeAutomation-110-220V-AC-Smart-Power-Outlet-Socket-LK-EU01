@@ -17,6 +17,12 @@ The smart 220V outlet represents a leap forward in home automation technology, s
 
 Read a tutorial of this DIY project on Hackster.io [here](https://www.hackster.io/mtpsilva/diy-smart-plug-outlet-d2961b).
 
+<p align="center">
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_bottom.png">
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_up.png">
+</p>
+
+
 <br>
 
 ## Compatibility
