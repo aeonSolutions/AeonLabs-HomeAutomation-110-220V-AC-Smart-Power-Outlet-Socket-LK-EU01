@@ -1,7 +1,12 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >> [Smart Home AC DC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management)  >>  110-220V AC Smart Power Outlet Socket LK-EU01
 
 <p align="right">
-    sponsored by <br>
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 29-02-2024
+</p>
+
+<p align="right">
+    <sup> partially sponsored by </sup> <br>
     <a href="https://www.aliexpress.com/store/912720154">
        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/lk_shiny_enclosure_store.png">
     </a>
@@ -20,13 +25,48 @@ Read a tutorial of this DIY project on Hackster.io [here](https://www.hackster.i
 ### PCB Layout
 <p align="center">
    <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_bottom.png">
-   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_up.png">
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_top.png">
+</p>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/dsmr_meter/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/dsmr_meter/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
 </p>
 
 ### Circuit Schematic
 
 <p align="center">
    <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/circuit_schematic.png">
+</p>
+
+### Hardware Specifications
+
+- ExpressIF single core XTensa LX7 microcontroller (ESP32 C3)
+Data-Repository/wiki).
+- Power consumption meter and scheduler
+- 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
+
+
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
+  
+  <p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
+</p>
+
+<br>
+
+
+### Sponsors
+ Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
 </p>
 
 <br>
