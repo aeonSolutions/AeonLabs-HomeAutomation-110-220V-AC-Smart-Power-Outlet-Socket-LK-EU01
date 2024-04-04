@@ -2,7 +2,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 29-02-2024
+Last update: 04-04-2024
 </p>
 
 <p align="right">
@@ -10,11 +10,15 @@ Last update: 29-02-2024
     <a href="https://www.aliexpress.com/store/912720154">
        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/lk_shiny_enclosure_store.png">
     </a>
+     <a href="https://www.seeedstudio.com/fusion.html">
+       <img height="25" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">
+    </a>
 </p>
+
 
 # 110-220V AC Smart Power Outlet Socket LK-EU01
 
-The smart 220V outlet represents a leap forward in home automation technology, seamlessly bridging the gap between traditional electrical appliances and the digital age. With the ability to connect to a dedicated mobile app, this intelligent outlet empowers users with unprecedented control and convenience. Whether you're at home or on the go, the app allows you to remotely monitor and manage your connected devices, turning them on or off with just a tap on your smartphone screen. Gone are the days of worrying about whether you left an appliance on or needing to physically unplug devices. Additionally, the outlet can be programmed to schedule operations, helping you save energy and reduce electricity bills. The smart 220V outlet not only enhances your home's efficiency but also brings a new level of convenience and peace of mind to your daily life.
+The smart 220V outlet represents a leap forward in home automation technology, seamlessly bridging the gap between traditional electrical appliances and the digital age. With the ability to connect to a dedicated mobile app, this intelligent outlet empowers users with unprecedented control and convenience. Whether you're at home or on the go, the app allows you to remotely monitor and manage your connected devices, turning them on or off with just a tap on your smartphone screen. Gone are the days of worrying about whether you left an appliance on or need to physically unplug devices. Additionally, the outlet can be programmed to schedule operations, helping you save energy and reduce electricity bills. The smart 220V outlet not only enhances your home's efficiency but also brings a new level of convenience and peace of mind to your daily life.
 
 <p align="center">
    <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/LK-EU01%20smart%20outlet%20enclosure.png">
@@ -48,7 +52,7 @@ Data-Repository/wiki).
 - 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
 
 
-### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The Smart Power Outlet Socket LK-EU01 is now for fabrication.
   
   <p align="center">
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
@@ -58,7 +62,7 @@ Data-Repository/wiki).
 
 
 ### Sponsors
- Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+ Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
