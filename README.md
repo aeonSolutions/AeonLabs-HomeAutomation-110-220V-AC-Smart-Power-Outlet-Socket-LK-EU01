@@ -33,8 +33,8 @@ Read a tutorial of this DIY project on Hackster.io [here](https://www.hackster.i
 </p>
 
 <p align="center">
-<strong> <a href="https://aeonsolutions.github.io/sponsor/dsmr_meter/">Interactive view of the PCB Layout</a> </strong> &nbsp;
-  <strong> <a href="https://aeonsolutions.github.io/sponsor/dsmr_meter/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+<strong> <a href="https://aeonsolutions.github.io/sponsor/wall_outlet_socket/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/wall_outlet_socket/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
  <sup>Click to view the latest revision</sup>
 </p>
 
