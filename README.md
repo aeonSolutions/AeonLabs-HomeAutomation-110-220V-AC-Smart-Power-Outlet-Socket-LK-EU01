@@ -2,7 +2,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 04-04-2024
+Last update: 19-05-2024
 </p>
 
 <p align="right">
@@ -74,6 +74,9 @@ Read all about this project in a tutorial blog format on Hackster.io
 - Fully compatible and a direct fit and installation with the [WR5P module from Tuya](https://developer.tuya.com/en/docs/iot/wifiwr5pmodule?id=K9605tyrcyt55).
 - It can be installed all open source firmware currently available: Home Assistant, Tuya Firmware, and all others.   
 
+<p align="center">
+   <img height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/tuya_logo.png">
+</p>
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status: The Smart Power Outlet Socket LK-EU01 is now completed and fully funcrional.
   
