@@ -21,7 +21,11 @@ Last update: 04-04-2024
 The smart 220V outlet represents a leap forward in home automation technology, seamlessly bridging the gap between traditional electrical appliances and the digital age. With the ability to connect to a dedicated mobile app, this intelligent outlet empowers users with unprecedented control and convenience. Whether you're at home or on the go, the app allows you to remotely monitor and manage your connected devices, turning them on or off with just a tap on your smartphone screen. Gone are the days of worrying about whether you left an appliance on or need to physically unplug devices. Additionally, the outlet can be programmed to schedule operations, helping you save energy and reduce electricity bills. The smart 220V outlet not only enhances your home's efficiency but also brings a new level of convenience and peace of mind to your daily life.
 
 <p align="center">
-   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/LK-EU01%20smart%20outlet%20enclosure.png">
+ <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_14.jpg">
+ <<img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_20.jpg">
+ <br>
+ <sup> Figure 1 - Hardware electronics inside the LK-EU01 housing</sup>
+  
 </p>
 
 Read a tutorial of this DIY project on Hackster.io [here](https://www.hackster.io/mtpsilva/diy-smart-plug-outlet-d2961b).
@@ -29,13 +33,20 @@ Read a tutorial of this DIY project on Hackster.io [here](https://www.hackster.i
 ### PCB Layout
 <p align="center">
    <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_bottom.png">
-   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_top.png">
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_top.png"> <br>
+ <sup> Figure 2 - 3D rendering in KiCad EDA of the PCB </sup>
 </p>
 
 <p align="center">
 <strong> <a href="https://aeonsolutions.github.io/sponsor/wall_outlet_socket/">Interactive view of the PCB Layout</a> </strong> &nbsp;
   <strong> <a href="https://aeonsolutions.github.io/sponsor/wall_outlet_socket/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
  <sup>Click to view the latest revision</sup>
+</p>
+
+<p align="center">
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_1.jpg">
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/lk-eu01_pcb_assembled_5.jpg"> <br>
+ <sup> Figure 3 - Hardware electronics fully assembled without the microcontroller pcb</sup><
 </p>
 
 ### Circuit Schematic
