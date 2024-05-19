@@ -63,6 +63,8 @@ Read all about this project in a tutorial blog format on Hackster.io
    <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/circuit_schematic.png">
 </p>
 
+<br>
+
 ### Hardware Specifications
 
 - ExpressIF single core XTensa LX7 microcontroller (ESP32 C3)
@@ -70,7 +72,7 @@ Read all about this project in a tutorial blog format on Hackster.io
 - Power Scheduler to take advantage of the lower price of electricity during late night time
 - 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
 - Fully compatible and a direct fit and installation with the [WR5P module from Tuya](https://developer.tuya.com/en/docs/iot/wifiwr5pmodule?id=K9605tyrcyt55).
-- It can be installed all open source firmware currently available: home assistant, Tuya Firmware, and all others.   
+- It can be installed all open source firmware currently available: Home Assistant, Tuya Firmware, and all others.   
 
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status: The Smart Power Outlet Socket LK-EU01 is now completed and fully funcrional.
