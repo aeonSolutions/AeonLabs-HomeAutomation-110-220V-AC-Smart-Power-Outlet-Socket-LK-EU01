@@ -28,7 +28,15 @@ The smart 220V outlet represents a leap forward in home automation technology, s
   
 </p>
 
-Read a tutorial of this DIY project on Hackster.io [here](https://www.hackster.io/mtpsilva/diy-smart-plug-outlet-d2961b).
+<br>
+
+Read all about this project in a tutorial blog format on Hackster.io 
+
+<p align="center">
+   <a href="https://www.hackster.io/mtpsilva/diy-smart-plug-outlet-d2961b">
+   <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/raw/main/media/hackster_io.png">
+   </a>
+</p>
 
 ### PCB Layout
 <p align="center">
