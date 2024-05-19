@@ -40,8 +40,8 @@ Read all about this project in a tutorial blog format on Hackster.io
 
 ### PCB Layout
 <p align="center">
-   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_bottom.png">
-   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_top.png"> <br>
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_bottom.jpg">
+   <img height="300" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-110-220V-AC-Smart-Power-Outlet-Socket-LK-EU01/blob/main/media/pcb_top.jpg"> <br>
  <sup> Figure 2 - 3D rendering in KiCad EDA of the PCB </sup>
 </p>
 
