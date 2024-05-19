@@ -71,7 +71,7 @@ Data-Repository/wiki).
 - 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
 
 
-### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The Smart Power Outlet Socket LK-EU01 is now for fabrication.
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status: The Smart Power Outlet Socket LK-EU01 is now completed and fully funcrional.
   
   <p align="center">
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
